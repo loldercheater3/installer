@@ -14,4 +14,4 @@
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You may use, copy, and modify it, as long as the copyright notice is included.
+This project is licensed under the (LICENSE). You may use, copy, and modify it, as long as the copyright notice is included.
